@@ -1,0 +1,10 @@
+file1.inp has 5 lines.
+file2.inp has 5 lins
+
+'file1.inp' - 'file2.inp':
+bbb
+
+------
+
+'file2.inp' - 'file1.inp':
+fff
